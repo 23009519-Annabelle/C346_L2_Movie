@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text , StatusBar, Image, ScrollView} from 'react-native';
+import { View, Text ,Image} from 'react-native';
 import Icon from "react-native-vector-icons/FontAwesome6";
 
 const Movie = ({title, year, icon_name, poster}) => {

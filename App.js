@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text , StatusBar, Image, ScrollView} from 'react-native';
+import {StatusBar, ScrollView} from 'react-native';
 import Movie from "./components/Movie.js"
 
 

@@ -2,7 +2,6 @@ import React from 'react';
 import {StatusBar, ScrollView} from 'react-native';
 import Movie from "./components/Movie.js"
 
-
  const App = () => {
   return (
       <ScrollView>

@@ -4,7 +4,7 @@ import Icon from "react-native-vector-icons/FontAwesome6";
 import { Image } from 'react-native';
 import { ScrollView } from "react-native";
 
-const Movie = ({title, year, icon_name, poster}) => {
+const Movie = ({title, year, icon_names, poster}) => {
   return (
       <View>
           <Image source= {poster}
